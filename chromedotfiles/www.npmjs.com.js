@@ -1,0 +1,5 @@
+document.querySelector('header').remove()
+document.querySelector('div.marketing').remove()
+document.querySelector('[class^=package__packageName').remove()
+document.querySelector('[class^=tabs__tabs').remove()
+document.querySelector('footer').remove()
